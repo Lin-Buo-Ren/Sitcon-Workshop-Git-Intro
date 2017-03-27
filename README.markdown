@@ -1,6 +1,6 @@
 # 非官方《SITCON Workshop - Git 版本控制入門》學習資料
 ## License
-PD, with exception of resource used under fair use principle
+PD, with exception of resources used under fair use principle
 
 ## 版本控制系統簡介
 ### 問題與解決方案
